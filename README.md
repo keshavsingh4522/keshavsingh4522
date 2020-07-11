@@ -3,6 +3,13 @@
 
 ### Hi there 👋
 
+- 🔭 I’m currently working on  **Competitive Programming**
+- 🌱 I’m currently learning **Data Analyasis with Python**
+- 💬 Ask me about **Python**
+- 😄 Pronouns: He/Him
+- ⚡ Languages: **Python3 | SQL | HTML | CSS |**
+
+
 <!--
 **keshavsingh4522/keshavsingh4522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
