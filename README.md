@@ -5,10 +5,13 @@
 
 - 🔭 I’m currently working on  **Competitive Programming**
 - 🌱 I’m currently learning **Data Analyasis with Python**
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python,Programming**
 - 😄 Pronouns: He/Him
 - ⚡ Languages: **Python3 | SQL | HTML | CSS |**
 
+---
+
+[![HitCount](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522.svg)](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522)
 
 <!--
 **keshavsingh4522/keshavsingh4522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
