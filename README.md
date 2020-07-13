@@ -13,7 +13,7 @@
 
 ### About Me
 
-- I'm Vedant currently a Third Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC :school: </a> and
+- I'm Keshav Singh currently a Third Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC :school: </a> and
 - aspiring software developer:computer:. Interested in working on backend, Databases and
 - currently learning about **Data Science**. Occasionaly I do participate in Hackathons :bulb: and
 - I have a love/hate relationship with Programming :neutral_face:
