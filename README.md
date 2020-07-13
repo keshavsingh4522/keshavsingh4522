@@ -1,6 +1,4 @@
-# Keshav Singh [![Linkedin Badge](https://img.shields.io/badge/-Keshav_Singh-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshavsingh4522)](https://www.linkedin.com/in/keshavsingh4522)
-
-# Keshav Singh [![Twitter](https://img.shields.io/badge/-Keshav_Singh-blue?style=round-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/in/Keshavsingh4522)](https://www.twitter.com/in/Keshavsingh4522)
+# Keshav Singh [![Linkedin Badge](https://img.shields.io/badge/-Keshav_Singh-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshavsingh4522)](https://www.linkedin.com/in/keshavsingh4522)[![Twitter](https://img.shields.io/badge/-Keshav_Singh-white?style=round-square&logo=Twitter&logoColor=blue&link=https://twitter.com/Keshavsingh4522)](https://twitter.com/Keshavsingh4522)
 
 <a href="https://github.com/keshavsingh4522"><img src="https://img.shields.io/github/followers/keshavsingh4522.svg?label=GitHub&style=social" alt="GitHub"></a><a href="https://twitter.com/Keshavsingh4522"><img src="https://img.shields.io/twitter/follow/Keshavsingh4522?label=Twitter&style=social" alt="Twitter"></a>
 
