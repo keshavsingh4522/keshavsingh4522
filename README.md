@@ -2,7 +2,7 @@
 
 
 
-### Hi there 👋
+### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
 
 - 🔭 I’m currently working on  **Competitive Programming**
 - 🌱 I’m currently learning **Data Analyasis with Python**
@@ -13,10 +13,10 @@
 
 ### About Me
 
-- I'm Keshav Singh currently a Third Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC :school: </a> and
-- aspiring software developer:computer:. Interested in working on backend, Databases and
-- currently learning about **Data Science**. Occasionaly I do participate in Hackathons :bulb: and
-- I have a love/hate relationship with Programming :neutral_face:
+- I'm *Keshav Singh* currently a Third Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC :school: </a> and
+- aspiring software developer:computer:. Interested in working on **backend, Databases** and
+- currently learning about **Data Science**. Occasionaly I do participate in **Hackathons** :bulb: and
+- I have a **love/hate** relationship with **Programming** :neutral_face:
 
 ## My Work Experience
 
@@ -28,7 +28,8 @@
 
 ![Keshav Singh's github stats](https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&line_height=30)
 
-### Connect with me :smiley
+
+### Connect with me :smiley:
 
 - <a href="https://github.com/keshavsingh4522"><img src="https://img.shields.io/github/followers/keshavsingh4522.svg?label=GitHub&style=social" alt="GitHub"></a>
 - <a href="https://twitter.com/Keshavsingh4522"><img src="https://img.shields.io/twitter/follow/Keshavsingh4522?label=Twitter&style=social" alt="Twitter"></a>
