@@ -13,16 +13,16 @@
 
 ### About Me
 
-- I'm *Keshav Singh* currently a Third Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC :school: </a> and
-- aspiring software developer:computer:. Interested in working on **backend, Databases** and
-- currently learning about **Data Science**. Occasionaly I do participate in **Hackathons** :bulb: and
+- I'm **Keshav Singh** currently a Fourth Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC :school: </a>
+- Interested in working on **Programming, Databases, Data Science**
+- currently learning about **Data Science**. Occasionaly I do participate in **Hackathons** :bulb:
 - I have a **love/hate** relationship with **Programming** :neutral_face:
 
 ## My Work Experience
 
 | Job Name | Roles & responsibilities | Duration |
 | ----- | ------ | ----- |
-| Problem Setter(Procode) | Setting Problems ranging from easy to medium and hard levels | March 2020 - Present |
+| **Problem Setter(Procode)** | Setting Problems ranging from easy to medium and hard levels | March 2020 - Present |
 
 ### Some Statistics Fun
 
