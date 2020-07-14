@@ -38,11 +38,11 @@
 
 [![HitCount](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522.svg)](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522)
 
-<div align="center">
+<!-- <div align="center">
     <img alt="Name" style="display: inline;" src="https://img.shields.io/badge/name-Keshav_Singh-brightgreen">
     <img alt="Age" style="display: inline;" src="https://img.shields.io/badge/16-Feb">
     <img alt="Language" style="display: inline;" src="https://img.shields.io/badge/language-|python-blue|Programmer-green">
-</div>
+</div> -->
 <!--
 **keshavsingh4522/keshavsingh4522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
