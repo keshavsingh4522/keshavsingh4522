@@ -1,22 +1,18 @@
-# Keshav Singh [![Linkedin Badge](https://img.shields.io/badge/-Keshav_Singh-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshavsingh4522)](https://www.linkedin.com/in/keshavsingh4522) [![Twitter Badge](https://img.shields.io/badge/-@keshavsingh4522-1ca0f1?style=round-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Keshavsingh4522)](https://twitter.com/Keshavsingh4522) [![Gmail Badge](https://img.shields.io/badge/-keshavsingh4522@gmail.com-c14438?style=round-square&logo=Gmail&logoColor=white&link=mailto:keshavsingh4522@gmail.com)](mailto:keshavsingh4522.com)
+# Keshav Singh [![Linkedin Badge](https://img.shields.io/badge/-Keshav_Singh-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshavsingh4522)](https://www.linkedin.com/in/keshavsingh4522) [![Twitter Badge](https://img.shields.io/badge/-@Keshavsingh4522-1ca0f1?style=round-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Keshavsingh4522)](https://twitter.com/Keshavsingh4522) [![Gmail Badge](https://img.shields.io/badge/-keshavsingh4522@gmail.com-c14438?style=round-square&logo=Gmail&logoColor=white&link=mailto:keshavsingh4522@gmail.com)](mailto:keshavsingh4522.com)
 
 
 
 ### Hi there 👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
 
+- :school: I'm **Keshav Singh** currently a Fourth Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC  </a>
 - 🔭 I’m currently working on  **Competitive Programming**
+- :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently learning **Data Analyasis with Python**
 - 💬 Ask me about **Python**
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
 
 - ⚡ Languages: **Python3 | SQL | HTML | CSS |**
-
-### About Me
-
-- I'm **Keshav Singh** currently a Fourth Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC :school: </a>
-- Interested in working on **Programming, Databases, Data Science**
-- currently learning about **Data Science**. Occasionaly I do participate in **Hackathons** :bulb:
-- I have a **love/hate** relationship with **Programming** :neutral_face:
+- :bulb: Occasionaly I do participate in **Hackathons**
 
 ## My Work Experience
 
@@ -32,6 +28,7 @@
 ### Connect with me :smiley:
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshavsingh4522)](https://www.linkedin.com/in/keshavsingh4522)
+- [![Gmail Badge](https://img.shields.io/badge/-Gmail.com-c14438?style=round-square&logo=Gmail&logoColor=white&link=mailto:keshavsingh4522@gmail.com)](mailto:keshavsingh4522.com)
 - <a href="https://github.com/keshavsingh4522"><img src="https://img.shields.io/github/followers/keshavsingh4522.svg?label=GitHub&style=social" alt="GitHub"></a>
 - <a href="https://twitter.com/Keshavsingh4522"><img src="https://img.shields.io/twitter/follow/Keshavsingh4522?label=Twitter&style=social" alt="Twitter"></a>
 
