@@ -1,14 +1,49 @@
 # Keshav Singh [![Linkedin Badge](https://img.shields.io/badge/-Keshav_Singh-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshavsingh4522)](https://www.linkedin.com/in/keshavsingh4522) [![Twitter Badge](https://img.shields.io/badge/-@Keshavsingh4522-1ca0f1?style=round-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Keshavsingh4522)](https://twitter.com/Keshavsingh4522) [![Gmail Badge](https://img.shields.io/badge/-keshavsingh4522@gmail.com-c14438?style=round-square&logo=Gmail&logoColor=white&link=mailto:keshavsingh4522@gmail.com)](mailto:keshavsingh4522.com)
 
+<br/>
 
+<a href="https://discord.gg/eDTmKjr" title='Discord'>
+  <img align="left" alt="Keshav's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/Keshavsingh4522" title='Twitter'>
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/keshavsingh4522/" title='Linkedin'>
+  <img align="left" alt="Keshav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/keshavsingh3197" title='Telegram'>
+  <img align="left" alt="Keshav's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/keshavsingh3197/" title='Instagram'>
+  <img align="left" alt="Keshav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/user/keshavsingh4522/" title='reddit'>
+  <img align="left" alt="Keshav's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://www.facebook.com/keshavsingh4522/" title='Facebook'>
+  <img align="left" alt="Keshav's facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
+</a>
 
-### Hi there 👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
+<a href="https://www.hackerrank.com/keshavdev4522" title='Hackerrank'>
+  <img align="left" alt="Keshav's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/hackerrank.svg" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/keshavsingh4522/practice/" title='geeksforgeeks'>
+  <img align="left" alt="Keshav's geeksforgeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/geeksforgeeks.svg" />
+</a>
+<a href="https://leetcode.com/keshavsingh4522/" title='Leetcode'>
+  <img align="left" alt="Keshav's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://www.codechef.com/users/keshavsingh452" title='Codechef'>
+  <img align="left" alt="Keshav's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+
+### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
 
 - :school: I'm **Keshav Singh** currently a Fourth Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC  </a>
 - 🔭 I’m currently working on  **Competitive Programming**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently learning **Data Analyasis with Python**
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Git**
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
 
 - ⚡ Languages: **Python3 | SQL | HTML | CSS |**
@@ -22,8 +57,11 @@
 
 ### Some Statistics Fun
 
-![Keshav Singh's github stats](https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&line_height=30)
+![Keshav Singh's github stats](https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical)
 
+### Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522)](https://github.com/keshavsingh4522/keshavsingh4522)
 
 ### Connect with me :smiley:
 
