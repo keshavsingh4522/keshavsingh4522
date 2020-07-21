@@ -36,6 +36,7 @@
 <a href="https://www.codechef.com/users/keshavsingh452" title='Codechef'>
   <img align="left" alt="Keshav's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
+<br>
 
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
 
@@ -43,9 +44,9 @@
 - 🔭 I’m currently working on  **Competitive Programming**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently learning **Data Analyasis with Python**
-- 💬 Ask me about **Python, Git**
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 💬 Ask me about anything, I am happy to help;
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
-
 - ⚡ Languages: **Python3 | SQL | HTML | CSS |**
 - :bulb: Occasionaly I do participate in **Hackathons**
 
@@ -63,12 +64,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522)](https://github.com/keshavsingh4522/keshavsingh4522)
 
-### Connect with me :smiley:
+<!-- ### Connect with me :smiley:
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshavsingh4522)](https://www.linkedin.com/in/keshavsingh4522)
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail.com-c14438?style=round-square&logo=Gmail&logoColor=white&link=mailto:keshavsingh4522@gmail.com)](mailto:keshavsingh4522.com)
 - <a href="https://github.com/keshavsingh4522"><img src="https://img.shields.io/github/followers/keshavsingh4522.svg?label=GitHub&style=social" alt="GitHub"></a>
-- <a href="https://twitter.com/Keshavsingh4522"><img src="https://img.shields.io/twitter/follow/Keshavsingh4522?label=Twitter&style=social" alt="Twitter"></a>
+- <a href="https://twitter.com/Keshavsingh4522"><img src="https://img.shields.io/twitter/follow/Keshavsingh4522?label=Twitter&style=social" alt="Twitter"></a> -->
 
 ---
 
