@@ -36,7 +36,10 @@
 <a href="https://www.codechef.com/users/keshavsingh452" title='Codechef'>
   <img align="left" alt="Keshav's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
-<br>
+<a href="https://www.coursera.org/user/8542c0b39f262d511098469141e8dd70" title='Coorsera'>
+  <img align="left" alt="Keshav's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/coursera.svg" />
+</a>
+<br><br>
 
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
 
@@ -62,7 +65,7 @@
 
 ### Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522)](https://github.com/keshavsingh4522/keshavsingh4522)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical)](https://github.com/keshavsingh4522/keshavsingh4522)
 
 <!-- ### Connect with me :smiley:
 
