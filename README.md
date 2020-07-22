@@ -1,6 +1,5 @@
 <div align='center'>
-:sagittarius:<h1><a href='https://keshavsingh4522.github.io/'>Keshav Singh</a></h1>:india:
-</div>
+<h1>:sagittarius: <a href='https://keshavsingh4522.github.io/'>Keshav Singh</a> :india:</h1>
 <!-- # :sagittarius: [Keshav Singh](https://keshavsingh4522.github.io/) :india: -->
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Keshav_Singh-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshavsingh4522)](https://www.linkedin.com/in/keshavsingh4522) [![Twitter Badge](https://img.shields.io/badge/-@Keshavsingh4522-1ca0f1?style=round-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Keshavsingh4522)](https://twitter.com/Keshavsingh4522) [![Gmail Badge](https://img.shields.io/badge/-keshavsingh4522@gmail.com-c14438?style=round-square&logo=Gmail&logoColor=white&link=mailto:keshavsingh4522@gmail.com)](mailto:keshavsingh4522.com) -->
 
@@ -69,6 +68,7 @@
   <img align="left" alt="Keshav's spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/spotify.svg" />
 </a>
 <br>
+<div>
 
 ****
 
