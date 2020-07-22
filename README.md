@@ -1,13 +1,12 @@
-<div align='center'>
-<h1>:sagittarius: <a href='https://keshavsingh4522.github.io/'>Keshav Singh</a> :india:</h1>
-</div>
-<!-- # :sagittarius: [Keshav Singh](https://keshavsingh4522.github.io/) :india: -->
+<!-- <div align='center'>
+<h1>:sagittarius:<a href='https://keshavsingh4522.github.io/'>Keshav Singh</a></h1>:india:
+</div> -->
+# :sagittarius: [Keshav Singh](https://keshavsingh4522.github.io/) :india:
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Keshav_Singh-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshavsingh4522)](https://www.linkedin.com/in/keshavsingh4522) [![Twitter Badge](https://img.shields.io/badge/-@Keshavsingh4522-1ca0f1?style=round-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Keshavsingh4522)](https://twitter.com/Keshavsingh4522) [![Gmail Badge](https://img.shields.io/badge/-keshavsingh4522@gmail.com-c14438?style=round-square&logo=Gmail&logoColor=white&link=mailto:keshavsingh4522@gmail.com)](mailto:keshavsingh4522.com) -->
 
 <br/>
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-<div align='center'>
-<a href="https://discord.gg/eDTmKjr" title='Discord' >
+<a href="https://discord.gg/eDTmKjr" title='Discord'>
   <img align="left" alt="Keshav's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/Keshavsingh4522" title='Twitter'>
@@ -37,11 +36,10 @@
 <a href="https://medium.com/@keshavsingh4522" title='Medium'>
   <img align="left" alt="Keshav's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
 </a>
-</div>
+
 
 <br><br>
 
-<div align='center'>
 <a href="https://www.hackerrank.com/keshavdev4522" title='Hackerrank'>
   <img align="left" alt="Keshav's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/hackerrank.svg" />
 </a>
@@ -63,17 +61,13 @@
 <a href="https://codepen.io/keshavsingh4522" title='Codepen'>
   <img align="left" alt="Keshav's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/codepen.svg" />
 </a>
-</div>
-
 <br><br>
-<div align='center'>
 <a href="https://soundcloud.com/keshav-singh-175228013/" title='soundcloud'>
   <img align="left" alt="Keshav's soundcloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/soundcloud.svg" />
 </a>
 <a href="https://open.spotify.com/user/p64n25ysv3ip9qyjovma7gval" title='spotify'>
   <img align="left" alt="Keshav's spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/spotify.svg" />
 </a>
-<div>
 <br>
 
 ****
