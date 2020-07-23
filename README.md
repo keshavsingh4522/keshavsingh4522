@@ -84,9 +84,10 @@
 - ⚡ Languages: **Python3 | SQL | HTML | CSS |**
 - :bulb: Occasionaly I do participate in **Hackathons**
 - :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
-## My Work Experience <details> <summary>:point_right:</summary>
+## My Work Experience
+<details>
+<summary>:point_right:</summary>
 <br>
-
 | Job Name | Roles & responsibilities | Duration |
 | ----- | ------ | ----- |
 | **Problem Setter(Procode)** | Setting Problems ranging from easy to medium and hard levels | March 2020 - Present |
