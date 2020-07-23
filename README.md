@@ -6,7 +6,7 @@
 
 <br/>
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-<a href="https://discord.gg/eDTmKjr" title='Discord'>
+<a href="https://discord.gg/eDTmKjr" title='Discord' >
   <img align="left" alt="Keshav's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/Keshavsingh4522" title='Twitter'>
@@ -84,11 +84,14 @@
 - ⚡ Languages: **Python3 | SQL | HTML | CSS |**
 - :bulb: Occasionaly I do participate in **Hackathons**
 - :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
-## My Work Experience
+## My Work Experience <details> <summary>:point_right:</summary>
+<br>
 
 | Job Name | Roles & responsibilities | Duration |
 | ----- | ------ | ----- |
 | **Problem Setter(Procode)** | Setting Problems ranging from easy to medium and hard levels | March 2020 - Present |
+
+</details>
 
 ### Some Statistics Fun
 
