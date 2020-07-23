@@ -85,33 +85,15 @@
 - :bulb: Occasionaly I do participate in **Hackathons**
 - :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
 
-<details>
-<summary><h2>My Work Experience <i id='point_right'>:point_right:</i></h2></summary>
-<br>
+## My Work Experience :point_right:
 
 | Job Name | Roles & responsibilities | Duration |
 | ----- | ------ | ----- |
 | **Problem Setter(Procode)** | Setting Problems ranging from easy to medium and hard levels | March 2020 - Present |
 
-</details>
-<script>
-document.getElementById('point_right').onclick=function(){
-  if (this.innerHTML==':point_right:'){
-    this.innerHTML=':point_down:';
-  }
-  else
-  {
-    this.innerHTML=':point_right:'
-  }
-}
-</script>
 ### Some Statistics Fun
 
-![Keshav Singh's github stats](https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical)
-
-### Top languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical)](https://github.com/keshavsingh4522/keshavsingh4522)
+![https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical](https://github.com/keshavsingh4522/keshavsingh4522)![https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical](https://github.com/keshavsingh4522/keshavsingh4522)
 
 <!-- ### Connect with me :smiley:
 
