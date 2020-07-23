@@ -94,7 +94,7 @@
 
 ### Some Statistics Fun
 
-![Keshav Singh's TOp Langs](https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical) ![Keshav Singh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical)
+![Keshav Singh's TOp Langs](https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical) ![Keshav Singh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&hide_langs_below=4)
 <!-- ### Connect with me :smiley:
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshavsingh4522)](https://www.linkedin.com/in/keshavsingh4522)
