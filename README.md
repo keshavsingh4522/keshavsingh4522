@@ -84,9 +84,10 @@
 - ⚡ Languages: **Python3 | SQL | HTML | CSS |**
 - :bulb: Occasionaly I do participate in **Hackathons**
 - :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
-## My Work Experience
+
 <details>
-<summary>:point_right:</summary>
+<h2>My Work Experience :point_right:</h2>
+<summary></summary>
 <br>
 | Job Name | Roles & responsibilities | Duration |
 | ----- | ------ | ----- |
