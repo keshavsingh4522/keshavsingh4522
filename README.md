@@ -1,7 +1,8 @@
 <!-- <div align='center'>
 <h1>:sagittarius:<a href='https://keshavsingh4522.github.io/'>Keshav Singh</a></h1>:india:
+
 </div> -->
-# :sagittarius: [Keshav Singh](https://keshavsingh4522.github.io/) :india:
+# जय माता दी (JAI MATA DI) :pray:, I am  [Keshav Singh](https://keshavsingh4522.github.io/)  :india:
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Keshav_Singh-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshavsingh4522)](https://www.linkedin.com/in/keshavsingh4522) [![Twitter Badge](https://img.shields.io/badge/-@Keshavsingh4522-1ca0f1?style=round-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Keshavsingh4522)](https://twitter.com/Keshavsingh4522) [![Gmail Badge](https://img.shields.io/badge/-keshavsingh4522@gmail.com-c14438?style=round-square&logo=Gmail&logoColor=white&link=mailto:keshavsingh4522@gmail.com)](mailto:keshavsingh4522.com) -->
 
 <br/>
@@ -93,8 +94,7 @@
 
 ### Some Statistics Fun
 
-![https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical](https://github.com/keshavsingh4522/keshavsingh4522)![https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical](https://github.com/keshavsingh4522/keshavsingh4522)
-
+![Keshav Singh's TOp Langs](https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical) ![Keshav Singh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical)
 <!-- ### Connect with me :smiley:
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshavsingh4522)](https://www.linkedin.com/in/keshavsingh4522)
