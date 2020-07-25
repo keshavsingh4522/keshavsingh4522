@@ -7,69 +7,6 @@
 
 <br/>
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-<a href="https://discord.gg/eDTmKjr" title='Discord' >
-  <img align="left" alt="Keshav's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://twitter.com/Keshavsingh4522" title='Twitter'>
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/keshavsingh4522/" title='Linkedin'>
-  <img align="left" alt="Keshav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/keshavsingh3197" title='Telegram'>
-  <img align="left" alt="Keshav's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/keshavsingh3197/" title='Instagram'>
-  <img align="left" alt="Keshav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user/keshavsingh4522/" title='reddit'>
-  <img align="left" alt="Keshav's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://www.facebook.com/keshavsingh4522/" title='Facebook'>
-  <img align="left" alt="Keshav's facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
-</a>
-<a href="https://dev.to/keshavsingh4522" title='Dev'>
-  <img align="left" alt="Keshav's Dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/dev-dot-to.svg" />
-</a>
-<a href="https://stackoverflow.com/users/11732730/keshav-singh" title='stackoverflow'>
-  <img align="left" alt="Keshav's stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/stackoverflow.svg" />
-</a>
-<a href="https://medium.com/@keshavsingh4522" title='Medium'>
-  <img align="left" alt="Keshav's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
-</a>
-
-
-<br><br>
-
-<a href="https://www.hackerrank.com/keshavdev4522" title='Hackerrank'>
-  <img align="left" alt="Keshav's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/hackerrank.svg" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/keshavsingh4522/practice/" title='geeksforgeeks'>
-  <img align="left" alt="Keshav's geeksforgeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/geeksforgeeks.svg" />
-</a>
-<a href="https://leetcode.com/keshavsingh4522/" title='Leetcode'>
-  <img align="left" alt="Keshav's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.codechef.com/users/keshavsingh452" title='Codechef'>
-  <img align="left" alt="Keshav's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-<a href="https://www.coursera.org/user/8542c0b39f262d511098469141e8dd70" title='Coursera'>
-  <img align="left" alt="Keshav's Coursera" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/coursera.svg" />
-</a>
-<a href="https://www.datacamp.com/profile/keshavsinghcse21" title='Datacamp'>
-  <img align="left" alt="Keshav's Datacamp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/datacamp.svg" />
-</a>
-<a href="https://codepen.io/keshavsingh4522" title='Codepen'>
-  <img align="left" alt="Keshav's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/codepen.svg" />
-</a>
-<br><br>
-<a href="https://soundcloud.com/keshav-singh-175228013/" title='soundcloud'>
-  <img align="left" alt="Keshav's soundcloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/soundcloud.svg" />
-</a>
-<a href="https://open.spotify.com/user/p64n25ysv3ip9qyjovma7gval" title='spotify'>
-  <img align="left" alt="Keshav's spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/spotify.svg" />
-</a>
-<br>
 
 ****
 
@@ -148,6 +85,25 @@
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&hide_langs_below=4'/>
 <img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical' />
 </details>
+
+
+<details>
+<summary><b> know more about me </b></summary>
+- <a href="https://discord.gg/eDTmKjr" title='Discord' > <img align="left" alt="Keshav's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> </a> <a href="https://twitter.com/Keshavsingh4522" title='Twitter'> <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> </a> <a href="https://www.linkedin.com/in/keshavsingh4522/" title='Linkedin'> <img align="left" alt="Keshav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="https://t.me/keshavsingh3197" title='Telegram'> <img align="left" alt="Keshav's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /> </a> <a href="https://www.instagram.com/keshavsingh3197/" title='Instagram'> <img align="left" alt="Keshav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a> <a href="https://www.reddit.com/user/keshavsingh4522/" title='reddit'> <img align="left" alt="Keshav's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" /> </a> <a href="https://www.facebook.com/keshavsingh4522/" title='Facebook'> <img align="left" alt="Keshav's facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" /> </a> <a href="https://dev.to/keshavsingh4522" title='Dev'> <img align="left" alt="Keshav's Dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/dev-dot-to.svg" /> </a> <a href="https://stackoverflow.com/users/11732730/keshav-singh" title='stackoverflow'> <img align="left" alt="Keshav's stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/stackoverflow.svg" /> </a> <a href="https://medium.com/@keshavsingh4522" title='Medium'> <img align="left" alt="Keshav's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" /> </a>
+
+<hr />
+
+<a href="https://www.hackerrank.com/keshavdev4522" title='Hackerrank'> <img align="left" alt="Keshav's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/hackerrank.svg" /></a> <a href="https://auth.geeksforgeeks.org/user/keshavsingh4522/practice/" title='geeksforgeeks'> <img align="left" alt="Keshav's geeksforgeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/geeksforgeeks.svg" /> </a>
+<a href="https://leetcode.com/keshavsingh4522/" title='Leetcode'> <img align="left" alt="Keshav's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /> </a> <a href="https://www.codechef.com/users/keshavsingh452" title='Codechef'> <img align="left" alt="Keshav's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" /><a href="https://www.hackerearth.com/@keshavsingh4522" title='hackerearth'> <img align="left" alt="Keshav's hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/hackerearth.svg" /></a></a> <a href="https://www.coursera.org/user/8542c0b39f262d511098469141e8dd70" title='Coursera'> <img align="left" alt="Keshav's Coursera" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/coursera.svg" /> </a> <a href="https://www.datacamp.com/profile/keshavsinghcse21" title='Datacamp'> <img align="left" alt="Keshav's Datacamp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/datacamp.svg" /> </a> <a href="https://codepen.io/keshavsingh4522" title='Codepen'> <img align="left" alt="Keshav's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/codepen.svg" /> </a>
+
+<hr />
+
+<a href="https://soundcloud.com/keshav-singh-175228013/" title='soundcloud'> <img align="left" alt="Keshav's soundcloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/soundcloud.svg" /> </a>
+<a href="https://open.spotify.com/user/p64n25ysv3ip9qyjovma7gval" title='spotify'> <img align="left" alt="Keshav's spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/spotify.svg" />
+</a>
+
+</details>
+
 
 
 <!-- ### Connect with me :smiley:
