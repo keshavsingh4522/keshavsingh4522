@@ -86,15 +86,35 @@
 - :bulb: Occasionaly I do participate in **Hackathons**
 - :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
 
-### My Work Experience :point_right:
+<!-- ### My Work Experience :point_right:
 
 | Job Name | Roles & responsibilities | Duration |
 | ----- | ------ | ----- |
-| **Problem Setter(Procode)** | Setting Problems ranging from easy to medium and hard levels | March 2020 - Present |
+| **Problem Setter(Procode)** | Setting Problems ranging from easy to medium and hard levels | March 2020 - Present | -->
+<details>
+<summary>**My Work Experience :point_right**</summary>
+<table>
+  <thead>
+    <tr>
+      <th>Job Name</th>
+      <th>Roles & responsibilities</th>
+      <th>Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>**Problem Setter(Procode)**</td>
+      <td>Setting Problems ranging from easy to medium and hard levels</td>
+      <td>March 2020 - Present</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+
 
 
 <details>
-<summary>My Work Project :point_right:</summary>
+<summary>**My Work Project :point_right:**</summary>
 <table>
   <thead>
     <tr>
@@ -120,9 +140,16 @@
 </details>
 
 
-### Some Statistics Fun
+<!-- ### Some Statistics Fun
 
-![Keshav Singh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&hide_langs_below=4) ![Keshav Singh's TOp Langs](https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical)
+![Keshav Singh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&hide_langs_below=4) ![Keshav Singh's TOp Langs](https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical) -->
+<details>
+<summary>**Some Statistics Fun**</summary>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&hide_langs_below=4'/>
+<img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical' />
+</details>
+
+
 <!-- ### Connect with me :smiley:
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshavsingh4522)](https://www.linkedin.com/in/keshavsingh4522)
