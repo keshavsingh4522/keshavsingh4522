@@ -93,25 +93,13 @@
 | **Problem Setter(Procode)** | Setting Problems ranging from easy to medium and hard levels | March 2020 - Present |
 
 
-### My Work Project :point_right:
+<details>
+<summary>### My Work Project :point_right:</summary
 | Project Name | Skill used |
-| ----- | -----: |
+| ----- | :-----: |
 | [Music Player](https://keshavsingh4522.github.io/music-player/) | HTML,HTML5,CSS,CSS3,Javascript,jQuery |
 | [Wordpad](https://keshavsingh4522.github.io/Projects/Wordpad/) | Html,Css,Javascript |
-
-### checking
-+------------------------+------------+----------+----------+
-| Header row, column 1   | Header 2   | Header 3 | Header 4 |
-| (header rows optional) |            |          |          |
-+========================+============+==========+==========+
-| body row 1, column 1   | column 2   | column 3 | column 4 |
-+------------------------+------------+----------+----------+
-| body row 2             | Cells may span columns.          |
-+------------------------+------------+---------------------+
-| body row 3             | Cells may  | - Table cells       |
-+------------------------+ span rows. | - contain           |
-| body row 4             |            | - body elements.    |
-+------------------------+------------+---------------------+
+</details>
 
 
 ### Some Statistics Fun
