@@ -94,11 +94,13 @@
 
 
 ## My Work Project :point_right:
++--------------+------------+
 | Project Name | Skill used |
-| ----- | ----- |
++==============+===========:+
 | [Music Player](https://keshavsingh4522.github.io/music-player/) | HTML,HTML5,CSS,CSS3,Javascript,jQuery |
++---------------+-----------+
 | [Wordpad](https://keshavsingh4522.github.io/Projects/Wordpad/) | Html,Css,Javascript |
-
++---------------+-----------+
 
 ### Some Statistics Fun
 
