@@ -94,11 +94,29 @@
 
 
 <details>
-<summary><h3>My Work Project :point_right:</h3></summary>
-| Project Name | Skill used |
-| ----- | :-----: |
-| [Music Player](https://keshavsingh4522.github.io/music-player/) | HTML,HTML5,CSS,CSS3,Javascript,jQuery |
-| [Wordpad](https://keshavsingh4522.github.io/Projects/Wordpad/) | Html,Css,Javascript |
+<summary>My Work Project :point_right:</summary>
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Skills used</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://keshavsingh4522.github.io/Projects/Calculator/'>Calculator</a></td>
+      <td>Html,Css</td>
+    </tr>
+    <tr>
+      <td><a href='https://keshavsingh4522.github.io/Projects/Wordpad/'>Wordpad</a></td>
+      <td>Html,Css,Javascript</td>
+    </tr>
+    <tr>
+      <td><a href='https://keshavsingh4522.github.io/music-player/'>Music Player</a></td>
+      <td>HTML,HTML5,CSS,CSS3,Javascript,jQuery</td>
+    </tr>
+  </tbody>
+</table>
 </details>
 
 
