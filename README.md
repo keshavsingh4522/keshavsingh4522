@@ -70,6 +70,10 @@
       <td><a href='https://keshavsingh4522.github.io/music-player/'>Music Player</a></td>
       <td>HTML,HTML5,CSS,CSS3,Javascript,jQuery</td>
     </tr>
+    <tr>
+      <td><a href="https://keshavsingh4522.github.io/switcher-app/">Switcher app</a></td>
+      <td>HTML,CSS,jQuery</td>
+    </tr>
   </tbody>
 </table>
 </details>
