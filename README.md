@@ -110,7 +110,7 @@
 <a href="https://soundcloud.com/keshav-singh-175228013/" title='soundcloud'> <img align="left" alt="Keshav's soundcloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/soundcloud.svg" /> </a>
 <a href="https://open.spotify.com/user/p64n25ysv3ip9qyjovma7gval" title='spotify'> <img align="left" alt="Keshav's spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/spotify.svg" />
 </a>
-
+<br />
 </details>
 
 <!-- ### Connect with me :smiley:
