@@ -2,17 +2,16 @@
 <h1>:sagittarius:<a href='https://keshavsingh4522.github.io/'>Keshav Singh</a></h1>:india:
 
 </div> -->
-# जय माता दी (JAI MATA DI) :pray:, I am  [Keshav Singh](https://keshavsingh4522.github.io/)  :india:
+<div align='center'><h1> जय माता दी (JAI MATA DI) :pray:</h1></div> 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Keshav_Singh-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshavsingh4522)](https://www.linkedin.com/in/keshavsingh4522) [![Twitter Badge](https://img.shields.io/badge/-@Keshavsingh4522-1ca0f1?style=round-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Keshavsingh4522)](https://twitter.com/Keshavsingh4522) [![Gmail Badge](https://img.shields.io/badge/-keshavsingh4522@gmail.com-c14438?style=round-square&logo=Gmail&logoColor=white&link=mailto:keshavsingh4522@gmail.com)](mailto:keshavsingh4522.com) -->
 
-<br/>
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 
 ****
 
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
 
-- :school: I'm **Keshav Singh** currently a Fourth Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC  </a>
+- :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/)  :india: currently a Fourth Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC  </a>
 - 🔭 I’m currently working on  **Competitive Programming**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently learning **Data Analyasis with Python**
@@ -113,7 +112,8 @@
 </a>
 
 </details>
-
+<br />
+<br />
 
 
 <!-- ### Connect with me :smiley:
@@ -123,8 +123,9 @@
 - <a href="https://github.com/keshavsingh4522"><img src="https://img.shields.io/github/followers/keshavsingh4522.svg?label=GitHub&style=social" alt="GitHub"></a>
 - <a href="https://twitter.com/Keshavsingh4522"><img src="https://img.shields.io/twitter/follow/Keshavsingh4522?label=Twitter&style=social" alt="Twitter"></a> -->
 
----
 
+<!-- --- -->
+****
 [![Profile views](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522.svg)](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522)   
 
 <!-- ![Profile views](https://gpvc.arturio.dev/keshavsingh4522) -->
