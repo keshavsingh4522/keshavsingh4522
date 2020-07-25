@@ -91,8 +91,8 @@
 | Job Name | Roles & responsibilities | Duration |
 | ----- | ------ | ----- |
 | **Problem Setter(Procode)** | Setting Problems ranging from easy to medium and hard levels | March 2020 - Present | -->
-### My Work Experience :point_right <details>
-<summary>**My Work Experience :point_right**</summary>
+<details>
+<summary><b> My Work Experience :point_right: </b></summary>
 <table>
   <thead>
     <tr>
@@ -103,7 +103,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>**Problem Setter(Procode)**</td>
+      <td><b>Problem Setter(Procode)</b></td>
       <td>Setting Problems ranging from easy to medium and hard levels</td>
       <td>March 2020 - Present</td>
     </tr>
@@ -114,7 +114,7 @@
 
 
 <details>
-<summary>**My Work Project :point_right:**</summary>
+<summary><b> My Work Project :point_right:</b></summary>
 <table>
   <thead>
     <tr>
@@ -144,7 +144,7 @@
 
 ![Keshav Singh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&hide_langs_below=4) ![Keshav Singh's TOp Langs](https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical) -->
 <details>
-<summary>**Some Statistics Fun**</summary>
+<summary><b> Some Statistics Fun </b></summary>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&hide_langs_below=4'/>
 <img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical' />
 </details>
