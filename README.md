@@ -92,6 +92,13 @@
 | ----- | ------ | ----- |
 | **Problem Setter(Procode)** | Setting Problems ranging from easy to medium and hard levels | March 2020 - Present |
 
+
+## My Work Project :point_right:
+| Project Name | Skill used |
+| ----- | ----- |
+| [Music Player](https://keshavsingh4522.github.io/music-player/) | HTML,HTML5,CSS,CSS3,Javascript,jQuery |
+
+
 ### Some Statistics Fun
 
 ![Keshav Singh's TOp Langs](https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical) ![Keshav Singh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&hide_langs_below=4)
