@@ -7,7 +7,6 @@
 
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 
-****
 
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
 
