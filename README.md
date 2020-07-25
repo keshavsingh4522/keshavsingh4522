@@ -86,21 +86,33 @@
 - :bulb: Occasionaly I do participate in **Hackathons**
 - :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
 
-## My Work Experience :point_right:
+### My Work Experience :point_right:
 
 | Job Name | Roles & responsibilities | Duration |
 | ----- | ------ | ----- |
 | **Problem Setter(Procode)** | Setting Problems ranging from easy to medium and hard levels | March 2020 - Present |
 
 
-## My Work Project :point_right:
-+--------------+------------+
+### My Work Project :point_right:
 | Project Name | Skill used |
-+==============+===========:+
+| ----- | -----: |
 | [Music Player](https://keshavsingh4522.github.io/music-player/) | HTML,HTML5,CSS,CSS3,Javascript,jQuery |
-+---------------+-----------+
 | [Wordpad](https://keshavsingh4522.github.io/Projects/Wordpad/) | Html,Css,Javascript |
-+---------------+-----------+
+
+### checking
++------------------------+------------+----------+----------+
+| Header row, column 1   | Header 2   | Header 3 | Header 4 |
+| (header rows optional) |            |          |          |
++========================+============+==========+==========+
+| body row 1, column 1   | column 2   | column 3 | column 4 |
++------------------------+------------+----------+----------+
+| body row 2             | Cells may span columns.          |
++------------------------+------------+---------------------+
+| body row 3             | Cells may  | - Table cells       |
++------------------------+ span rows. | - contain           |
+| body row 4             |            | - body elements.    |
++------------------------+------------+---------------------+
+
 
 ### Some Statistics Fun
 
