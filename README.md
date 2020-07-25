@@ -94,7 +94,7 @@
 
 
 <details>
-<summary>### My Work Project :point_right:</summary
+<summary><h3>My Work Project :point_right:</h3></summary>
 | Project Name | Skill used |
 | ----- | :-----: |
 | [Music Player](https://keshavsingh4522.github.io/music-player/) | HTML,HTML5,CSS,CSS3,Javascript,jQuery |
