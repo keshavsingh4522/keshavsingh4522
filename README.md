@@ -8,9 +8,9 @@
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
-
+| ![Shiv](https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/shiv.gif) |
+| --: |
 - :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/)  :india: currently a Fourth Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC  </a>
-<img align='right' src='https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/shiv.gif' />
 - 🔭 I’m currently working on  **Competitive Programming**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently learning **Data Analyasis with Python**
