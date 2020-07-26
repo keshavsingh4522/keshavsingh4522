@@ -102,7 +102,7 @@
     <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
  <a href="https://www.linkedin.com/in/keshavsingh4522/" title='Linkedin'>
-    <img align="left" alt="Keshav's LinkdeIN" width="22px" src="https://img.icons8.com/nolan/22/linkedin.png />
+    <img align="left" alt="Keshav's LinkdeIN" width="22px" src="https://img.icons8.com/nolan/22/linkedin.png" />
 </a>
 <a href="https://t.me/keshavsingh3197" title='Telegram'>
     <img align="left" alt="Keshav's Telegram" src="https://img.icons8.com/fluent/64/000000/telegram-app.png" />
@@ -114,7 +114,7 @@
     <img align="left" alt="Keshav's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <a href="https://www.facebook.com/keshavsingh4522/" title='Facebook'>
-    <img align="left" alt="Keshav's facebook" width="22px" src="https://img.icons8.com/nolan/22/facebook-new.png />
+    <img align="left" alt="Keshav's facebook" width="22px" src="https://img.icons8.com/nolan/22/facebook-new.png" />
 </a>
 <a href="https://dev.to/keshavsingh4522" title='Dev'>
     <img align="left" alt="Keshav's Dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/dev-dot-to.svg" />
@@ -160,7 +160,6 @@
 <li>Some Music</li>
 </ul>
 <a href="https://soundcloud.com/keshav-singh-175228013/" title='soundcloud'>
-
     <img align="left" alt="Keshav's soundcloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/soundcloud.svg" />
 </a>
 <a href="https://open.spotify.com/user/p64n25ysv3ip9qyjovma7gval" title='spotify'>
