@@ -164,7 +164,7 @@
     <img align="left" alt="Keshav's soundcloud" src="https://img.icons8.com/color/32/000000/soundcloud.png" />
 </a>
 <a href="https://open.spotify.com/user/p64n25ysv3ip9qyjovma7gval" title='spotify'>
-    <img align="left" alt="Keshav's spotify" src="https://img.icons8.com/nolan/32/spotify.png" />
+    <img align="left" alt="Keshav's spotify" src="https://img.icons8.com/color/32/000000/spotify--v1.png" />
 </a>
 <br />
 </details>
