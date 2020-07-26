@@ -71,7 +71,7 @@
       <td>HTML,HTML5,CSS,CSS3,Javascript,jQuery</td>
     </tr>
     <tr>
-      <td><a href="https://keshavsingh4522.github.io/switcher-app/">Switcher app</a></td>
+      <td><a href="https://keshavsingh4522.github.io/Projects/switcher-app/">witcher app</a></td>
       <td>HTML,CSS,jQuery</td>
     </tr>
   </tbody>
