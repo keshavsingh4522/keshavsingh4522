@@ -29,6 +29,17 @@
 * Data Science
 * Database
 
+### Programming Languages
+- c,c++
+- Python3
+- Html, HTML5
+- Css,CSS3
+- Javascript, jQuery
+- Git
+- SQL
+- shell (Basics)
+- GitHub Markdown, Jupyter Markdown
+
 
 <details>
 <summary><b> My Work Experience :point_right: </b></summary>
@@ -67,16 +78,20 @@
       <td>Html,Css</td>
     </tr>
     <tr>
+      <td><a href="https://keshavsingh4522.github.io/Projects/CodeEditor/">CodeEditor</a></td>
+      <td>HTML,CSS,Javascript</td>
+    </tr>
+    <tr>
       <td><a href='https://keshavsingh4522.github.io/Projects/Wordpad/'>Wordpad</a></td>
       <td>Html,Css,Javascript</td>
     </tr>
     <tr>
-      <td><a href='https://keshavsingh4522.github.io/music-player/'>Music Player</a></td>
-      <td>HTML,HTML5,CSS,CSS3,Javascript,jQuery</td>
+      <td><a href="https://keshavsingh4522.github.io/Projects/switcher-app/">Switcher app</a></td>
+      <td>HTML,CSS,jQuery</td>
     </tr>
     <tr>
-      <td><a href="https://keshavsingh4522.github.io/Projects/switcher-app/">witcher app</a></td>
-      <td>HTML,CSS,jQuery</td>
+      <td><a href='https://keshavsingh4522.github.io/music-player/'>Music Player</a></td>
+      <td>HTML,HTML5,CSS,CSS3,Javascript,jQuery</td>
     </tr>
   </tbody>
 </table>
