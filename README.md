@@ -86,6 +86,10 @@
       <td>Html,Css,Javascript</td>
     </tr>
     <tr>
+      <td><a href='https://keshavsingh4522.github.io/Projects/address%20maker/'>Address Maker</a></td>
+      <td>Html,Css,Javascript</td>
+    </tr>
+    <tr>
       <td><a href="https://keshavsingh4522.github.io/Projects/switcher-app/">Switcher app</a></td>
       <td>HTML,CSS,jQuery</td>
     </tr>
