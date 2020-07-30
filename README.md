@@ -117,20 +117,6 @@
 </table>
 </details>
 
-
-<!-- ### Some Statistics Fun
-
-![Keshav Singh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&hide_langs_below=4) ![Keshav Singh's TOp Langs](https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical) -->
-<!-- <details open>
-<summary><b> Some Statistics Fun </b></summary>
-<!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&hide_langs_below=4'/> -->
-<!-- <img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical' /> -->
-
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&layout=compact'>
-<img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical&line_height=21'>
-</details> -->
-
-
 <details open>
 <summary><b> know more about me </b></summary>
 <br /><br />
