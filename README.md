@@ -7,6 +7,7 @@
 
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <img src='https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/Monkey_Kid_Coding.gif' align='left'>
+
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
 - :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/)  :india: currently a Fourth Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC  </a>
 - 🔭 I’m currently working on  **Competitive Programming**
