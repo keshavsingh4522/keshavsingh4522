@@ -25,7 +25,7 @@
 | Job Name | Roles & responsibilities | Duration |
 | ----- | ------ | ----- |
 | **Problem Setter(Procode)** | Setting Problems ranging from easy to medium and hard levels | March 2020 - Present | -->
-<br>
+<!-- <br> -->
 
 <!-- <img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical&line_height=21' align='right'> -->
 
@@ -34,7 +34,7 @@
 * Data Science
 * Database
 
-<br>
+<!-- <br> -->
 
 ### ⚡ Programming Languages
 
