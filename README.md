@@ -32,9 +32,10 @@
 ### Programming Languages
 - c,c++
 - Python3
-- Html, HTML5
+- Html
+- HTML5(INDEXEDB Database)
 - Css,CSS3
-- Javascript, jQuery
+- Javascript, jQuery, Bootstrap
 - Git
 - SQL
 - shell (Basics)
@@ -77,7 +78,7 @@
     <tr>
       <td><a href='https://keshavsingh4522.github.io/Projects/Calculator/'>Calculator</a></td>
       <td>Html,Css</td>
-      <td>It is a simple calculator which do +,-,*,/  operation</td>
+      <td>It is a simple calculator which do +,-,\*,/  operation</td>
     </tr>
     <tr>
       <td><a href="https://keshavsingh4522.github.io/Projects/CodeEditor/">CodeEditor</a></td>
@@ -114,8 +115,11 @@
 ![Keshav Singh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&hide_langs_below=4) ![Keshav Singh's TOp Langs](https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical) -->
 <details open>
 <summary><b> Some Statistics Fun </b></summary>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&hide_langs_below=4'/>
-<img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical' />
+<!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&hide_langs_below=4'/> -->
+<!-- <img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical' /> -->
+
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&layout=compact'>
+<img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical&line_height=21'>
 </details>
 
 
