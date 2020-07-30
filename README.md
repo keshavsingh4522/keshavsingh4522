@@ -13,12 +13,12 @@
 - 🔭 I’m currently working on  **Competitive Programming**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently learning **Data Analyasis with Python**
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
-- ⚡ Languages: **Python3 | SQL | HTML | CSS |**
 - :bulb: Occasionaly I do participate in **Hackathons**
 - :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
+<!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
 
 <!-- ### My Work Experience :point_right:
 
@@ -27,12 +27,17 @@
 | **Problem Setter(Procode)** | Setting Problems ranging from easy to medium and hard levels | March 2020 - Present | -->
 <br>
 
+<img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical&line_height=21' align='right'>
+
 ### :computer: Technologies I Love
 * Frontend Web Development
 * Data Science
 * Database
 
-### Programming Languages
+<br>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical' align='right'>
+
+### ⚡ Programming Languages
 - c,c++
 - Python3
 - Html
@@ -121,8 +126,6 @@
 <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&hide_langs_below=4'/> -->
 <!-- <img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical' /> -->
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&layout=compact'>
-<img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical&line_height=21'>
 </details>
 
 
