@@ -37,6 +37,9 @@
 <br>
 
 ### ⚡ Programming Languages
+
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&layout=compact' align='right'>
+
 - c,c++
 - Python3
 - Html
