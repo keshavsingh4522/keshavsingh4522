@@ -35,8 +35,6 @@
 * Database
 
 <br>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical' align='right'>
-<br>
 
 ### ⚡ Programming Languages
 - c,c++
