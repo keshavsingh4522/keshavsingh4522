@@ -6,53 +6,31 @@
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Keshav_Singh-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshavsingh4522)](https://www.linkedin.com/in/keshavsingh4522) [![Twitter Badge](https://img.shields.io/badge/-@Keshavsingh4522-1ca0f1?style=round-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Keshavsingh4522)](https://twitter.com/Keshavsingh4522) [![Gmail Badge](https://img.shields.io/badge/-keshavsingh4522@gmail.com-c14438?style=round-square&logo=Gmail&logoColor=white&link=mailto:keshavsingh4522@gmail.com)](mailto:keshavsingh4522.com) -->
 
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-<img src='https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/Monkey_Kid_Coding.gif' align='left'>
-
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
 - :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/)  :india: currently a Fourth Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC  </a>
 - 🔭 I’m currently working on  **Competitive Programming**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently learning **Data Analyasis with Python**
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
-- 💬 Ask me about anything, I am happy to help
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 💬 Ask me about anything, I am happy to help;
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
+- ⚡ Languages: **Python3 | SQL | HTML | CSS |**
 - :bulb: Occasionaly I do participate in **Hackathons**
 - :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
-<!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
 
 <!-- ### My Work Experience :point_right:
 
 | Job Name | Roles & responsibilities | Duration |
 | ----- | ------ | ----- |
 | **Problem Setter(Procode)** | Setting Problems ranging from easy to medium and hard levels | March 2020 - Present | -->
-<br>
-
-<img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical&line_height=21' align='right'>
 
 ### :computer: Technologies I Love
 * Frontend Web Development
 * Data Science
 * Database
 
-<br>
 
-### ⚡ Programming Languages
-
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&layout=compact' align='right'>
-
-- c,c++
-- Python3
-- Html
-- HTML5(INDEXEDB Database)
-- Css,CSS3
-- Javascript, jQuery, Bootstrap
-- Git
-- SQL
-- shell (Basics)
-- GitHub Markdown, Jupyter Markdown
-
-
-<details open>
+<details>
 <summary><b> My Work Experience :point_right: </b></summary>
 <table>
   <thead>
@@ -74,52 +52,48 @@
 
 
 
-<details open>
+<details>
 <summary><b> My Work Project :point_right:</b></summary>
 <table>
   <thead>
     <tr>
       <th>Project Name</th>
       <th>Skills used</th>
-      <th>Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href='https://keshavsingh4522.github.io/Projects/Calculator/'>Calculator</a></td>
       <td>Html,Css</td>
-      <td>It is a simple calculator which do +,-,\*,/  operation</td>
-    </tr>
-    <tr>
-      <td><a href="https://keshavsingh4522.github.io/Projects/CodeEditor/">CodeEditor</a></td>
-      <td>HTML,CSS,Javascript</td>
-      <td>write html cod here and result will display there</td>
     </tr>
     <tr>
       <td><a href='https://keshavsingh4522.github.io/Projects/Wordpad/'>Wordpad</a></td>
       <td>Html,Css,Javascript</td>
-      <td>its functionality look like as wordpad</td>
-    </tr>
-    <tr>
-      <td><a href='https://keshavsingh4522.github.io/Projects/address%20maker/'>Address Maker</a></td>
-      <td>Html,Css,Javascript</td>
-      <td>it generates address in desing format by fiiling the details</td>
-    </tr>
-    <tr>
-      <td><a href="https://keshavsingh4522.github.io/Projects/switcher-app/">Switcher app</a></td>
-      <td>HTML,CSS,jQuery</td>
-      <td>It changes  the text color by drag and drp color on text</td>
     </tr>
     <tr>
       <td><a href='https://keshavsingh4522.github.io/music-player/'>Music Player</a></td>
       <td>HTML,HTML5,CSS,CSS3,Javascript,jQuery</td>
-      <td>add songs and play music,it also uses to store data in  INDEXEDB Database by which we can play songs,if we not clear the catch then song will remain stored in database.</td>
+    </tr>
+    <tr>
+      <td><a href="https://keshavsingh4522.github.io/Projects/switcher-app/">witcher app</a></td>
+      <td>HTML,CSS,jQuery</td>
     </tr>
   </tbody>
 </table>
 </details>
 
-<details open>
+
+<!-- ### Some Statistics Fun
+
+![Keshav Singh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&hide_langs_below=4) ![Keshav Singh's TOp Langs](https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical) -->
+<details>
+<summary><b> Some Statistics Fun </b></summary>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&hide_langs_below=4'/>
+<img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical' />
+</details>
+
+
+<details>
 <summary><b> know more about me </b></summary>
 <br /><br />
 <ul>
