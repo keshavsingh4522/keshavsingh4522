@@ -20,37 +20,18 @@
 - :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
 
-<!-- ### My Work Experience :point_right:
-
-| Job Name | Roles & responsibilities | Duration |
-| ----- | ------ | ----- |
-| **Problem Setter(Procode)** | Setting Problems ranging from easy to medium and hard levels | March 2020 - Present | -->
 <br />
 <br />
+ <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&layout=compact' align='right'> -->
 
-<!-- <img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical&line_height=21' align='right'> -->
-
-### :computer: Technologies I Love
-* Frontend Web Development
-* Data Science
-* Database
-
-<!-- <br> -->
-
-### ⚡ Programming Languages
-
-<!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&layout=compact' align='right'> -->
-
-- c,c++
-- Python3
-- Html
-- HTML5(INDEXEDB Database)
-- Css,CSS3
-- Javascript, jQuery, Bootstrap
-- Git
-- SQL
-- shell (Basics)
-- GitHub Markdown, Jupyter Markdown
+ | ⚡ Programming Languages |  :computer: Technologies I Love |
+ | ----- | ----- |
+ | <ul><li> Html, Css, CSS3,Javascript, jQuery, Bootstrap</li></ul>   | <ul><li> Frontend Web Development </li></ul> |
+ | <ul><li> Python3, GitHub Markdown, Jupyter Markdown </li></ul>| <ul><li>Data Science</li></ul> |     
+ | <ul><li>SQL,HTML5(INDEXEDB Database)</li></ul> | <ul><li> Database</li></ul> |     
+ | <ul><li>Git</li></ul> | |     
+ | <ul><li>c,c++</li></ul> | |     
+ | <ul><li>shell (Basics)</li></ul> | |
 
 
 <details open>
