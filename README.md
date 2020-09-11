@@ -107,6 +107,10 @@
 <summary><b> Some Statistics Fun </b></summary>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&hide_langs_below=4'/>
 <img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical&count_private=true' />
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=keshavsingh4522&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 </details>
 
 <details open>
