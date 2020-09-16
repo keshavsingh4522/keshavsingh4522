@@ -192,9 +192,25 @@
 </a>
 <br />
 </details>
+ 
+
+### i really like music :headphones:
+
+<!-- Nothing weird to see here -->
+<p align="center">
+  <a href="https://spotify-now-playing-song.vercel.app/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://spotify-now-playing-song.vercel.app/api/now-playing">
+  </a>
+</p>
+
+<p align="center">
+  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
+  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
+</p>
 
 ****
-[![Profile views](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522.svg)](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522)   
+[![Profile views](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522.svg)](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522) 
 
 <!-- ![Profile views](https://gpvc.arturio.dev/keshavsingh4522) -->
 
