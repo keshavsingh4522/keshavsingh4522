@@ -5,7 +5,8 @@
 
 </div> -->
 <div align='center'><h1> जय माता दी (JAI MATA DI) :pray:</h1></div>
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-Keshav_Singh-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshavsingh4522)](https://www.linkedin.com/in/keshavsingh4522) [![Twitter Badge](https://img.shields.io/badge/-@Keshavsingh4522-1ca0f1?style=round-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Keshavsingh4522)](https://twitter.com/Keshavsingh4522) [![Gmail Badge](https://img.shields.io/badge/-keshavsingh4522@gmail.com-c14438?style=round-square&logo=Gmail&logoColor=white&link=mailto:keshavsingh4522@gmail.com)](mailto:keshavsingh4522.com) -->
+
+[![Linkedin Badge](https://img.shields.io/badge/-Keshav_Singh-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshavsingh4522)](https://www.linkedin.com/in/keshavsingh4522) [![Twitter Badge](https://img.shields.io/badge/-@Keshavsingh4522-1ca0f1?style=round-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Keshavsingh4522)](https://twitter.com/Keshavsingh4522) [![Gmail Badge](https://img.shields.io/badge/-keshavsingh4522@gmail.com-c14438?style=round-square&logo=Gmail&logoColor=white&link=mailto:keshavsingh4522@gmail.com)](mailto:keshavsingh4522.com)
 
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <img src='https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/Monkey_Kid_Coding.gif' align='left'>
@@ -36,7 +37,8 @@
  | <ul><li>shell (Basics)</li></ul> | |
 
 
-<details open>
+<!-- start work experience section -->
+<details>
 <summary><b> My Work Experience :point_right: </b></summary>
 <table>
   <thead>
@@ -55,10 +57,10 @@
   </tbody>
 </table>
 </details>
+<!-- end work experience section -->
 
-
-
-<details open>
+<!-- start work project section -->
+<details>
 <summary><b> My Work Project :point_right:</b></summary>
 <table>
   <thead>
@@ -102,98 +104,44 @@
   </tbody>
 </table>
 </details>
+<!-- end work project section -->
 
-<details open>
+<!-- start statics fun section -->
+<details>
 <summary><b> Some Statistics Fun </b></summary>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&hide_langs_below=4'/>
 <img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical&count_private=true' />
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=keshavsingh4522&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
 </details>
+<!-- end statics fun section -->
 
-<details open>
+
+<!-- start about me section -->
+<details>
 <summary><b> know more about me </b></summary>
-<br /><br />
-<ul>
-<li>Socila Media</li>
-</ul>
- <a href="https://discord.gg/eDTmKjr" title='Discord' >
-    <img align="left" alt="Keshav's Discord" src="https://img.icons8.com/fluent/32/000000/discord-new-logo.png" />
-</a>
- <a href="https://twitter.com/Keshavsingh4522" title='Twitter'>
-    <img align="left" alt="Keshav Singh | Twitter" src="https://img.icons8.com/fluent/32/000000/twitter.png" />
-    <!-- <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/> -->
-</a>
- <a href="https://www.linkedin.com/in/keshavsingh4522/" title='Linkedin'>
-    <img align="left" alt="Keshav's LinkdeIN" src="https://img.icons8.com/color/32/000000/linkedin.png" />
-</a>
-<a href="https://t.me/keshavsingh3197" title='Telegram'>
-    <img align="left" alt="Keshav's Telegram" src="https://img.icons8.com/fluent/32/000000/telegram-app.png" />
-</a>
-<a href="https://www.instagram.com/keshavsingh3197/" title='Instagram'>
-    <img align="left" alt="Keshav's Instagram" src="https://img.icons8.com/fluent/32/000000/instagram-new.png" />
-</a>
-<a href="https://www.reddit.com/user/keshavsingh4522/" title='reddit'>
-    <img align="left" alt="Keshav's Reddit" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://www.facebook.com/keshavsingh4522/" title='Facebook'>
-    <img align="left" alt="Keshav's facebook" src="https://img.icons8.com/fluent/32/000000/facebook-new.png" />
-</a>
-<a href="https://dev.to/keshavsingh4522" title='Dev'>
-    <img align="left" alt="Keshav's Dev" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/dev-dot-to.svg" />
-</a>
-<a href="https://stackoverflow.com/users/11732730/keshav-singh" title='stackoverflow'>
-    <img align="left" alt="Keshav's stackoverflow" src="https://img.icons8.com/color/32/000000/stackoverflow.png" />
-</a>
-<a href="https://medium.com/@keshavsingh4522" title='Medium'>
-    <img align="left" alt="Keshav's Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
-</a>
 
- <br /><br />
- <ul>
- <li>Competitive Programming Profile</li>
- </ul>
+| Socila Media | Competitive Programming Profile | Some Music |
+| ------------ | ------------------------------- | ---------- |
+| [![](https://img.icons8.com/fluent/32/000000/discord-new-logo.png 'Discord')](https://discord.gg/eDTmKjr) | [![](https://img.icons8.com/windows/32/000000/hackerrank.png 'Hackerrank')](https://www.hackerrank.com/keshavdev4522) | [![](https://img.icons8.com/color/32/000000/soundcloud.png 'soundcloud')](https://soundcloud.com/keshav-singh-175228013/) |
+| [![](https://img.icons8.com/fluent/32/000000/twitter.png 'Twitter')](https://twitter.com/Keshavsingh4522) | [![](https://img.icons8.com/color/48/000000/GeeksforGeeks.png 'geeksforgeeks')](https://auth.geeksforgeeks.org/user/keshavsingh4522/practice/) | [![](https://img.icons8.com/color/32/000000/spotify--v1.png 'spotify')](https://open.spotify.com/user/p64n25ysv3ip9qyjovma7gval) |
+| [![](https://img.icons8.com/color/32/000000/linkedin.png 'Linkedin')](https://www.linkedin.com/in/keshavsingh4522/) | [![](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg 'Leetcode' ){:height="30px" width="30px"}](https://leetcode.com/keshavsingh4522/) | |
+| [![](https://img.icons8.com/fluent/32/000000/telegram-app.png 'Telegram')](https://t.me/keshavsingh3197) | [![](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg '')](Codechef) | |
+| [![](https://img.icons8.com/fluent/32/000000/instagram-new.png 'Instagram')](https://www.instagram.com/keshavsingh3197/) | [![](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/hackerearth.svg 'hackerearth')](https://www.hackerearth.com/@keshavsingh4522) | |
+| [![](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg 'reddit')](https://www.reddit.com/user/keshavsingh4522/) | [![](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/coursera.svg 'Coursera')](https://www.coursera.org/user/8542c0b39f262d511098469141e8dd7) | |
+| [![](https://img.icons8.com/fluent/32/000000/facebook-new.png 'Facebook')](https://www.facebook.com/keshavsingh4522/) | [![](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/datacamp.svg 'Datacamp')](https://www.datacamp.com/profile/keshavsinghcse21) | |
+| [![](https://img.icons8.com/windows/32/000000/dev.png 'Dev')](https://dev.to/keshavsingh4522) | [![](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/codepen.svg 'Codepen')](https://codepen.io/keshavsingh4522) | |
+| [![](https://img.icons8.com/color/32/000000/stackoverflow.png 'stackoverflow')](https://stackoverflow.com/users/11732730/keshav-singh) | [![]()]() | [![]()]() |
+| [![](https://img.icons8.com/bubbles/50/000000/medium-new.png 'Medium')](https://medium.com/@keshavsingh4522) | | |
 
-<a href="https://www.hackerrank.com/keshavdev4522" title='Hackerrank'>
-    <img align="left" alt="Keshav's hackerrank" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/hackerrank.svg" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/keshavsingh4522/practice/" title='geeksforgeeks'>
-    <img align="left" alt="Keshav's geeksforgeeks" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/geeksforgeeks.svg" />
-</a>
-<a href="https://leetcode.com/keshavsingh4522/" title='Leetcode'>
-    <img align="left" alt="Keshav's Leetcode" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.codechef.com/users/keshavsingh452" title='Codechef'>
-    <img align="left" alt="Keshav's Codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-<a href="https://www.hackerearth.com/@keshavsingh4522" title='hackerearth'>
-    <img align="left" alt="Keshav's hackerearth" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/hackerearth.svg" />
-</a>
-<a href="https://www.coursera.org/user/8542c0b39f262d511098469141e8dd70" title='Coursera'>
-    <img align="left" alt="Keshav's Coursera" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/coursera.svg" />
-</a>
-<a href="https://www.datacamp.com/profile/keshavsinghcse21" title='Datacamp'>
-    <img align="left" alt="Keshav's Datacamp" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/datacamp.svg" />
-</a>
-<a href="https://codepen.io/keshavsingh4522" title='Codepen'>
-    <img align="left" alt="Keshav's Codepen" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/codepen.svg" />
-</a>
-
-<br /><br />
-<ul>
-<li>Some Music</li>
-</ul>
-<a href="https://soundcloud.com/keshav-singh-175228013/" title='soundcloud'>
-    <img align="left" alt="Keshav's soundcloud" src="https://img.icons8.com/color/32/000000/soundcloud.png" />
-</a>
-<a href="https://open.spotify.com/user/p64n25ysv3ip9qyjovma7gval" title='spotify'>
-    <img align="left" alt="Keshav's spotify" src="https://img.icons8.com/color/32/000000/spotify--v1.png" />
-</a>
-<br />
 </details>
- 
 
+
+
+<!-- end about me section -->
+
+<!-- start dynamic spotify spngs API -->
 ### i really like music :headphones:
 
 <!-- Nothing weird to see here -->
@@ -209,9 +157,15 @@
   <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
   <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a> for song api</i>
 </p>
+<!-- end dynamic spotify spngs API -->
+
+<!-- start footer section -->
 
 ****
 [![Profile views](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522.svg)](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522) 
+
+
+<!-- end footer section -->
 
 <!-- ![Profile views](https://gpvc.arturio.dev/keshavsingh4522) -->
 
