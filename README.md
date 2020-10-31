@@ -1,12 +1,9 @@
-<!-- <div align='center'>
-<h1>:sagittarius:<a href='https://keshavsingh4522.github.io/'>Keshav Singh</a></h1>:india:
-
-</div> -->
 <div align='center'><h1> जय माता दी (JAI MATA DI) :pray:</h1></div>
 <div align="center">
 <a href="https://twitter.com/Keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/keshavsingh3197" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 </div>
-<img src='https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/Monkey_Kid_Coding.gif' align='left'>
+
+<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
 - :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/) currently a Fourth Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC  </a>
@@ -24,17 +21,6 @@
 
 <br />
 <br />
- <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&layout=compact' align='right'> -->
-
-<!--  | ⚡ Programming Languages |  :computer: Technologies I Love |
- | ----- | ----- |
- | <ul><li> Html, Css, CSS3,Javascript, jQuery, Bootstrap</li></ul>   | <ul><li> Frontend Web Development </li></ul> |
- | <ul><li> Python3, GitHub Markdown, Jupyter Markdown </li></ul>| <ul><li>Data Science</li></ul> |     
- | <ul><li>SQL,HTML5(INDEXEDB Database)</li></ul> | <ul><li> Database</li></ul> |     
- | <ul><li>Git</li></ul> | |     
- | <ul><li>c,c++</li></ul> | |     
- | <ul><li>shell (Basics)</li></ul> | |
- -->
 
 <!-- start work experience section -->
 <details>
