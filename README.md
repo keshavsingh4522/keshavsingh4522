@@ -1,20 +1,15 @@
-
-<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/1_u.png?raw=true' width='100%' height='150px;' />
 <!-- <div align='center'>
 <h1>:sagittarius:<a href='https://keshavsingh4522.github.io/'>Keshav Singh</a></h1>:india:
 
 </div> -->
 <div align='center'><h1> जय माता दी (JAI MATA DI) :pray:</h1></div>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Keshav_Singh-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshavsingh4522)](https://www.linkedin.com/in/keshavsingh4522) [![Twitter Badge](https://img.shields.io/badge/-@Keshavsingh4522-1ca0f1?style=round-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Keshavsingh4522)](https://twitter.com/Keshavsingh4522) [![Gmail Badge](https://img.shields.io/badge/-keshavsingh4522@gmail.com-c14438?style=round-square&logo=Gmail&logoColor=white&link=mailto:keshavsingh4522@gmail.com)](mailto:keshavsingh4522.com)
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-Keshav_Singh-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshavsingh4522)](https://www.linkedin.com/in/keshavsingh4522) [![Twitter Badge](https://img.shields.io/badge/-@Keshavsingh4522-1ca0f1?style=round-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Keshavsingh4522)](https://twitter.com/Keshavsingh4522) [![Gmail Badge](https://img.shields.io/badge/-keshavsingh4522@gmail.com-c14438?style=round-square&logo=Gmail&logoColor=white&link=mailto:keshavsingh4522@gmail.com)](mailto:keshavsingh4522.com) -->
-
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
+<div align="center">
+<a href="https://twitter.com/Keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/keshavsingh3197" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+</div>
 <img src='https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/Monkey_Kid_Coding.gif' align='left'>
 
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
-- :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/)  :india: currently a Fourth Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC  </a>
+- :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/) currently a Fourth Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC  </a>
 - 🔭 I’m currently working on  **Competitive Programming**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently learning **Data Analyasis with Python**
@@ -22,6 +17,8 @@
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
 - :bulb: Occasionaly I do participate in **Hackathons**
+- 👨 Know more about me at [Sourcerer](https://sourcerer.io/keshavsingh4522) 
+- 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.
 - :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
 
@@ -29,7 +26,7 @@
 <br />
  <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&layout=compact' align='right'> -->
 
- | ⚡ Programming Languages |  :computer: Technologies I Love |
+<!--  | ⚡ Programming Languages |  :computer: Technologies I Love |
  | ----- | ----- |
  | <ul><li> Html, Css, CSS3,Javascript, jQuery, Bootstrap</li></ul>   | <ul><li> Frontend Web Development </li></ul> |
  | <ul><li> Python3, GitHub Markdown, Jupyter Markdown </li></ul>| <ul><li>Data Science</li></ul> |     
@@ -37,7 +34,7 @@
  | <ul><li>Git</li></ul> | |     
  | <ul><li>c,c++</li></ul> | |     
  | <ul><li>shell (Basics)</li></ul> | |
-
+ -->
 
 <!-- start work experience section -->
 <details>
@@ -111,37 +108,68 @@
 <!-- start statics fun section -->
 <details>
 <summary><b> Some Statistics Fun </b></summary>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&hide_langs_below=4'/>
-<img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=radical&count_private=true' />
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=keshavsingh4522&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=tokyonight&count_private=true'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=tokyonight&hide_langs_below=4' />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=keshavsingh4522&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </details>
 <!-- end statics fun section -->
 
 
-<!-- start about me section -->
-<details>
-<summary><b> know more about me </b></summary>
+<details> 
+ <summary>🤖 <b>My programming stats</b>: </summary>
+<br>
 
-| Socila Media | Competitive Programming Profile | Some Music |
-| ------------ | ------------------------------- | ---------- |
-| [![](https://img.icons8.com/fluent/32/000000/discord-new-logo.png 'Discord')](https://discord.gg/eDTmKjr) | [![](https://img.icons8.com/windows/32/000000/hackerrank.png 'Hackerrank')](https://www.hackerrank.com/keshavdev4522) | [![](https://img.icons8.com/color/32/000000/soundcloud.png 'soundcloud')](https://soundcloud.com/keshav-singh-175228013/) |
-| [![](https://img.icons8.com/fluent/32/000000/twitter.png 'Twitter')](https://twitter.com/Keshavsingh4522) | [![](https://img.icons8.com/color/48/000000/GeeksforGeeks.png 'geeksforgeeks')](https://auth.geeksforgeeks.org/user/keshavsingh4522/practice/) | [![](https://img.icons8.com/color/32/000000/spotify--v1.png 'spotify')](https://open.spotify.com/user/p64n25ysv3ip9qyjovma7gval) |
-| [![](https://img.icons8.com/color/32/000000/linkedin.png 'Linkedin')](https://www.linkedin.com/in/keshavsingh4522/) | [![](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg 'Leetcode' ){:height="30px" width="30px"}](https://leetcode.com/keshavsingh4522/) | |
-| [![](https://img.icons8.com/fluent/32/000000/telegram-app.png 'Telegram')](https://t.me/keshavsingh3197) | [![](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg '')](Codechef) | |
-| [![](https://img.icons8.com/fluent/32/000000/instagram-new.png 'Instagram')](https://www.instagram.com/keshavsingh3197/) | [![](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/hackerearth.svg 'hackerearth')](https://www.hackerearth.com/@keshavsingh4522) | |
-| [![](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg 'reddit')](https://www.reddit.com/user/keshavsingh4522/) | [![](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/coursera.svg 'Coursera')](https://www.coursera.org/user/8542c0b39f262d511098469141e8dd7) | |
-| [![](https://img.icons8.com/fluent/32/000000/facebook-new.png 'Facebook')](https://www.facebook.com/keshavsingh4522/) | [![](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/datacamp.svg 'Datacamp')](https://www.datacamp.com/profile/keshavsinghcse21) | |
-| [![](https://img.icons8.com/windows/32/000000/dev.png 'Dev')](https://dev.to/keshavsingh4522) | [![](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/codepen.svg 'Codepen')](https://codepen.io/keshavsingh4522) | |
-| [![](https://img.icons8.com/color/32/000000/stackoverflow.png 'stackoverflow')](https://stackoverflow.com/users/11732730/keshav-singh) | [![]()]() | [![]()]() |
-| [![](https://img.icons8.com/bubbles/50/000000/medium-new.png 'Medium')](https://medium.com/@keshavsingh4522) | | |
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    118 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.32% 
+🌆 Daytime    214 commits    ████████░░░░░░░░░░░░░░░░░   33.23% 
+🌃 Evening    234 commits    █████████░░░░░░░░░░░░░░░░   36.34% 
+🌙 Night      78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.11%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.09% 
+Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
+Wednesday    75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
+Thursday     101 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
+Friday       82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
+Saturday     107 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.61% 
+Sunday       120 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.63%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 34 mins             ████████████████████████░   97.77% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23%
+
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         10 repos            █████████████████░░░░░░░░   71.43% 
+C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+
+<!--END_SECTION:waka-->
 
 </details>
 
-
-
-<!-- end about me section -->
 
 <!-- start dynamic spotify spngs API -->
 ### i really like music :headphones:
@@ -165,28 +193,3 @@
 
 ****
 [![Profile views](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522.svg)](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522) 
-
-
-<!-- end footer section -->
-
-<!-- ![Profile views](https://gpvc.arturio.dev/keshavsingh4522) -->
-
-<!-- <div align="center">
-    <img alt="Name" style="display: inline;" src="https://img.shields.io/badge/name-Keshav_Singh-brightgreen">
-    <img alt="Age" style="display: inline;" src="https://img.shields.io/badge/16-Feb">
-    <img alt="Language" style="display: inline;" src="https://img.shields.io/badge/language-|python-blue|Programmer-green">
-</div> -->
-<!--
-**keshavsingh4522/keshavsingh4522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
