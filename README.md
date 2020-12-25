@@ -99,6 +99,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=keshavsingh4522&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=keshavsingh4522&theme=dark)
 </details>
 <!-- end statics fun section -->
 
