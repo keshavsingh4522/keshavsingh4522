@@ -9,7 +9,7 @@
 - :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/) currently a Fourth Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC  </a>
 - 🔭 I’m currently working on  **Competitive Programming**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
-- 🌱 I’m currently learning **Data Analyasis with Python**
+- 🌱 I’m currently learning **Bash Scripting language**
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
@@ -35,9 +35,19 @@
   </thead>
   <tbody>
     <tr>
+      <td><b><a href="https://www.chegg.com/">Expert at Chegg</a> </b></td>
+      <td>Solving questions.</td>
+      <td>October 2020 - Present</td>
+    </tr>
+    <tr>
       <td><b>Problem Setter(Procode)</b></td>
       <td>Setting Problems ranging from easy to medium and hard levels</td>
-      <td>March 2020 - Present</td>
+      <td>March 2020 - Aprail 2020</td>
+    </tr>
+     <tr>
+      <td><b><a href="https://www.atg.world/">Frontend Developer at ATG</a></b></td>
+      <td>working on frontend of website</td>
+      <td>July 2019 - August 2019</td>
     </tr>
   </tbody>
 </table>
