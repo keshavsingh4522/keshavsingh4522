@@ -34,10 +34,15 @@
     </tr>
   </thead>
   <tbody>
+  	<tr>
+      <td><b><a href="https://www.unthinkable.co/">Junior Assistant Intern at Unthinkable Solution LLP</a> </b></td>
+      <td>part of training</td>
+      <td>January 2021 - Present</td>
+    </tr>
     <tr>
       <td><b><a href="https://www.chegg.com/">Expert at Chegg</a> </b></td>
       <td>Solving questions.</td>
-      <td>October 2020 - Present</td>
+      <td>October 2020 - January 2021</td>
     </tr>
     <tr>
       <td><b>Problem Setter(Procode)</b></td>
