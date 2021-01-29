@@ -36,7 +36,7 @@
   <tbody>
   	<tr>
       <td><b><a href="https://www.unthinkable.co/">Junior Associate Intern at Unthinkable Solution LLP</a> </b></td>
-      <td>Learning of Javascript,html,css,git</td>
+      <td>Learner</td>
       <td>January 2021 - Present</td>
     </tr>
     <tr>
