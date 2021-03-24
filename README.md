@@ -9,7 +9,7 @@
 - :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/) currently a Fourth Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC  </a>
 - 🔭 I’m currently working on  **Competitive Programming**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
-- 🌱 I’m currently learning **Bash Scripting language**
+- 🌱 I’m currently learning **ASP.NET,C#**
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
@@ -36,7 +36,7 @@
   <tbody>
   	<tr>
       <td><b><a href="https://www.unthinkable.co/">Junior Associate Intern at Unthinkable Solution LLP</a> </b></td>
-      <td>Learner</td>
+      <td>Learning and practising of ASP.NET,C#</td>
       <td>January 2021 - Present</td>
     </tr>
     <tr>
