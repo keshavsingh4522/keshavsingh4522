@@ -194,4 +194,4 @@ JavaScript               1 repo              █░░░░░░░░░░�
 <!-- start footer section -->
 
 ****
-[![Profile views](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522.svg)](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522) 
+<img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=keshavsingh4522&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A">
