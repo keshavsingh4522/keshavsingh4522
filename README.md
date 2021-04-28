@@ -7,7 +7,7 @@
 
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
 - :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/) currently a Fourth Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC  </a>
-- 🔭 I’m currently working on  **Competitive Programming**
+- 🔭 I’m currently working on  **Backend Development**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently learning **ASP.NET,C#**
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
