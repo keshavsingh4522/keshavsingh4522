@@ -194,4 +194,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 <!-- start footer section -->
 
 ****
+
+<!--
 [![Profile views](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522.svg)](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522) 
+-->
