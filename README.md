@@ -1,6 +1,6 @@
 <div align='center'><h1> जय माता दी (JAI MATA DI) :pray:</h1></div>
 <div align="center">
-<a href="https://twitter.com/Keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Twitter" width="22px" src="https://image000.flaticon.com/png/512/733/733579.png" /></a><a href="https://www.linkedin.com/in/keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Linkdein" width="22px" src="https://image000.flaticon.com/png/512/2111/2111499.png" /></a><a href="https://www.instagram.com/keshavsingh3197" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Insta" width="22px" src="https://image000.flaticon.com/png/512/174/174855.png" /></a>
+<a href="https://twitter.com/Keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Twitter" width="22px" src="https://image000.flaticon.com/png/512/733/733579.png" /></a><a href="https://www.linkedin.com/in/keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Linkdein" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a><a href="https://www.instagram.com/keshavsingh3197" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Insta" width="22px" src="https://image000.flaticon.com/png/512/174/174855.png" /></a>
 </div>
 
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
