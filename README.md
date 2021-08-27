@@ -34,10 +34,15 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><b><a href="https://www.unthinkable.co/">Junior Associate - IT at Unthinkable Solution LLP</a> </b></td>
+      <td>.Net and AWS Cloud Devloper</td>
+      <td>August 2021 - Present</td>
+    </tr>
   	<tr>
       <td><b><a href="https://www.unthinkable.co/">Junior Associate Intern at Unthinkable Solution LLP</a> </b></td>
       <td>Learning and practising of ASP.NET,C#</td>
-      <td>January 2021 - Present</td>
+      <td>January 2021 - August 2021</td>
     </tr>
     <tr>
       <td><b><a href="https://www.chegg.com/">Expert at Chegg</a> </b></td>
