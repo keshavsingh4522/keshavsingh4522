@@ -6,10 +6,10 @@
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
-- :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/) currently a Fourth Year CSE student at <a href="https://jecrcfoundation.com/">@JECRC  </a>
+- :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/) have pursued B.Tech(CSE) from <a href="https://jecrcfoundation.com/">@JECRC  </a>
 - 🔭 I’m currently working on  **Backend Development**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
-- 🌱 I’m currently learning **ASP.NET,C#**
+- 🌱 I’m currently Working with tech **AWS,.Net Core,ELK,APM,Heartbeat**
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
