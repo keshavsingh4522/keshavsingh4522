@@ -52,7 +52,7 @@
     <tr>
       <td><b>Problem Setter(Procode)</b></td>
       <td>Setting Problems ranging from easy to medium and hard levels</td>
-      <td>March 2020 - Aprail 2020</td>
+      <td>March 2020 - April 2020</td>
     </tr>
      <tr>
       <td><b><a href="https://www.atg.world/">Frontend Developer at ATG</a></b></td>
