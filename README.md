@@ -9,7 +9,7 @@
 - :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/), have pursued B.Tech(CSE) from <a href="https://jecrcfoundation.com/">@JECRC  </a>
 - 🔭 I’m currently working on  **Backend Development**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
-- 🌱 I’m currently Working with tech Microservice,**AWS,.Net Core,ELK,APM,Heartbeat**
+- 🌱 I’m currently Working with tech Microservice,**AWS,.Net Core**
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
