@@ -41,3 +41,5 @@ jobs:
           touch script.py
           echo hello > readme_v1.md
           python script_v1.py
+          ls -la
+          tree
