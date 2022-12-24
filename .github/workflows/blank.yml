@@ -42,5 +42,5 @@ jobs:
           echo hello > readme_v1.md
           python script_v1.py
           ls -la
-          puthon ${{secrets.Py_File_Name_01}}
+          python ${{secrets.Py_File_Name_01}}
           tree
