@@ -39,4 +39,5 @@ jobs:
           echo ${{ secrets.API_KEY_02 }}
           echo ${{ secrets.API_KEY_01 }}
           touch script.py
+          echo hello > readme_v1.md
           python script_v1.py
