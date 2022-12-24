@@ -35,4 +35,4 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           echo ${{ secrets.GH_TOKEN }}
-          echo ${{ secrets.WAKATIME_API_KEY }}
+          echo ${{ secrets.API_KEY_01 }}
