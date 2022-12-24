@@ -30,9 +30,13 @@ jobs:
         run: echo Hello, world!
 
       # Runs a set of commands using the runners shell
+      # If repository secret found then its value will appear as => ***
+
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          echo ${{ secrets.GH_TOKEN }}
+          echo ${{ secrets.API_KEY_02 }}
           echo ${{ secrets.API_KEY_01 }}
+          touch script.py
+          python script_v1.py
