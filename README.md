@@ -28,35 +28,47 @@
 <table>
   <thead>
     <tr>
-      <th>Job Name</th>
+      <th>Company</th>
+      <th>Position</th>
       <th>Roles & responsibilities</th>
       <th>Duration</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><b><a href="https://www.unthinkable.co/">Junior Associate - IT at Unthinkable Solution LLP</a> </b></td>
+     <tr>
+      <td><b><a href="https://www.unthinkable.co/">Unthinkable Solution LLP</a> </b></td>
+      <td>Associate - IT</td>
       <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
-      <td>August 2021 - Present</td>
+      <td>January 2023 - Present</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://www.unthinkable.co/">Unthinkable Solution LLP</a> </b></td>
+      <td>Junior Associate - IT</td>
+      <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
+      <td>August 2021 - January 2023</td>
     </tr>
   	<tr>
-      <td><b><a href="https://www.unthinkable.co/">Junior Associate Intern at Unthinkable Solution LLP</a> </b></td>
+      <td><b><a href="https://www.unthinkable.co/">Unthinkable Solution LLP</a> </b></td>
+      <td>Intern</td>
       <td>Learning and practising of ASP.NET,C#</td>
       <td>January 2021 - August 2021</td>
     </tr>
     <tr>
-      <td><b><a href="https://www.chegg.com/">Expert at Chegg</a> </b></td>
+      <td><b><a href="https://www.chegg.com/">Chegg</a> </b></td>
+      <td>Expert</td>
       <td>Solving questions.</td>
       <td>October 2020 - January 2021</td>
     </tr>
     <tr>
-      <td><b>Problem Setter(Procode)</b></td>
+      <td><b>Procode team</b></td>
+      <td>College Activity</td>
       <td>Setting Problems ranging from easy to medium and hard levels</td>
       <td>March 2020 - Aprail 2020</td>
     </tr>
      <tr>
-      <td><b><a href="https://www.atg.world/">Frontend Developer at ATG</a></b></td>
-      <td>working on frontend of website</td>
+      <td><b><a href="https://www.atg.world/">ATG</a></b></td>
+       <td>Frontend Developer Intern</td>
+      <td>Working on frontend of website</td>
       <td>July 2019 - August 2019</td>
     </tr>
   </tbody>
