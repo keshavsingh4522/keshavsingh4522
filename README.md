@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
-- :bulb: Occasionaly I do participate in **Hackathons**
+- :bulb: Occasionally I do participate in **Hackathons**
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/keshavsingh4522) 
 - 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.
 - :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
@@ -38,11 +38,17 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><b><a href="https://www.marlabs.com/">Marlabs</a> </b></td>
+      <td>Software Engineer</td>
+      <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
+      <td>JULY 2023 - Present</td>
+    </tr>
      <tr>
       <td><b><a href="https://www.unthinkable.co/">Unthinkable Solution LLP</a> </b></td>
       <td>Associate - IT</td>
       <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
-      <td>January 2023 - Present</td>
+      <td>January 2023 - JULY 2023</td>
     </tr>
     <tr>
       <td><b><a href="https://www.unthinkable.co/">Unthinkable Solution LLP</a> </b></td>
@@ -66,7 +72,7 @@
       <td><b>Procode team</b></td>
       <td>College Activity</td>
       <td>Setting Problems ranging from easy to medium and hard levels</td>
-      <td>March 2020 - Aprail 2020</td>
+      <td>March 2020 - April 2020</td>
     </tr>
      <tr>
       <td><b><a href="https://www.atg.world/">ATG</a></b></td>
@@ -104,27 +110,27 @@
     <tr>
       <td><a href="https://keshavsingh4522.github.io/Projects/CodeEditor/">CodeEditor</a></td>
       <td>HTML,CSS,Javascript</td>
-      <td>write html cod here and result will display there</td>
+      <td>write html cod here and the result will display there</td>
     </tr>
     <tr>
       <td><a href='https://keshavsingh4522.github.io/Projects/Wordpad/'>Wordpad</a></td>
-      <td>Html,Css,Javascript</td>
+      <td>Html,CSS,Javascript</td>
       <td>its functionality look like as wordpad</td>
     </tr>
     <tr>
       <td><a href='https://keshavsingh4522.github.io/Projects/address%20maker/'>Address Maker</a></td>
-      <td>Html,Css,Javascript</td>
-      <td>it generates address in desing format by fiiling the details</td>
+      <td>Html,CSS,Javascript</td>
+      <td> It generates an address in design format by filling in the details</td>
     </tr>
     <tr>
       <td><a href="https://keshavsingh4522.github.io/Projects/switcher-app/">Switcher app</a></td>
       <td>HTML,CSS,jQuery</td>
-      <td>It changes  the text color by drag and drp color on text</td>
+      <td>It changes  the text color by dragging and dropping color on text</td>
     </tr>
     <tr>
       <td><a href='https://keshavsingh4522.github.io/music-player/'>Music Player</a></td>
       <td>HTML,HTML5,CSS,CSS3,Javascript,jQuery</td>
-      <td>add songs and play music,it also uses to store data in  INDEXEDB Database by which we can play songs,if we not clear the catch then song will remain stored in database.</td>
+      <td>add songs and play music, it also uses to store data in  INDEXEDB Database by which we can play songs, if we do not clear the catch then the song will remain stored in a database.</td>
     </tr>
   </tbody>
 </table>
@@ -203,23 +209,23 @@ JavaScript               1 repo              █░░░░░░░░░░�
 </details>
 
 
-<!-- start dynamic spotify spngs API -->
-### i really like music :headphones:
+<!-- start dynamic Spotify songs API -->
+### I really like music :headphones:
 
 <!-- Nothing weird to see here -->
 <p align="center">currently jamming to</p>
 <p align="center">
   <a href="https://spotify-now-playing-song.vercel.app/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability, and energy! -->
     <img src="https://spotify-now-playing-song.vercel.app/api/now-playing">
   </a>
 </p>
 
 <p align="center">
-  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
+  <!-- He came up with the idea of HOW to show React components as an image on a README.md and the now-playing component! -->
   <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a> for song api</i>
 </p>
-<!-- end dynamic spotify spngs API -->
+<!-- end dynamic Spotify songs API -->
 
 <!-- start footer section -->
 
