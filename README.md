@@ -22,8 +22,6 @@
 <br />
 
 ## Profiles
-- [keshav-singh-profile](https://www.keshavsingh.net)
-
 <!-- start work experience section -->
 <details>
 <summary><b> My Work Experience :point_right: </b></summary>
@@ -37,11 +35,17 @@
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td><b><a href="https://www.rsystems.com/">R Systems</a> </b></td>
+      <td>Senior Software Engineer</td>
+      <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
+      <td>FEB 2024 - Present</td>
+    </tr>
     <tr>
       <td><b><a href="https://www.marlabs.com/">Marlabs</a> </b></td>
       <td>Software Engineer</td>
       <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
-      <td>JULY 2023 - Present</td>
+      <td>JULY 2023 - OCTOBER 2023 </td>
     </tr>
      <tr>
       <td><b><a href="https://www.unthinkable.co/">Unthinkable Solution LLP</a> </b></td>
