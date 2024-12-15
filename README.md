@@ -1,4 +1,7 @@
 <div align='center'><h1> जय माता दी (JAI MATA DI) :pray:</h1></div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=1EF79A&background=FFFFFF00&multiline=true&width=435&lines=Keshav+Singh;SSE)](https://git.io/typing-svg)
+
 <div align="center">
 <a href="https://twitter.com/Keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a><a href="https://www.linkedin.com/in/keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.instagram.com/keshavsingh3197" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Insta" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 </div>
@@ -31,6 +34,8 @@
 - **Azure**: SignalR, Storage, Vault, SQL Server, VPN, App Service, Function, API Management
 
 <br />
+
+![](https://github-stats-alpha.vercel.app/api?username=keshavsingh4522&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
 
 ## Profiles
 <!-- start work experience section -->
@@ -163,6 +168,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=keshavsingh4522&theme=dark)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=keshavsingh4522&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keshavsingh4522&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keshavsingh4522&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keshavsingh4522&theme=dracula)
 
 </div>
 </details>
