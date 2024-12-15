@@ -3,7 +3,7 @@
 <a href="https://twitter.com/Keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a><a href="https://www.linkedin.com/in/keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.instagram.com/keshavsingh3197" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Insta" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 </div>
 
-<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
+<img src='./Assets/Monkey_Kid_Coding.gif' align='left'>
 
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
 - :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/), have pursued B.Tech(CSE) from <a href="https://jecrcfoundation.com/">@JECRC  </a>
@@ -18,6 +18,17 @@
 - 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.
 - :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
+
+<br />
+
+## Skills
+- **Languages**: C#, .Net Core, ASP.NET Core Web API, REST, gRPC, Microservices, OOPs, Unit Testing [NUnit], TDD, SOQL
+- **Frameworks**: Angular
+- **Databases**: MySQL, MongoDB, Salesforce, Postgres, Redis, OpenSearch
+- **Operating Systems**: Windows, Linux
+- **Tools**: Visual Studio, Jira, Bitbucket, Azure DevOps, Git, SonarQube
+- **AWS**: App Config, Parameter Store, KMS, SQS, SNS, SES, Event Bus, App Flow, API Gateway, Lambda, Cognito, Step Functions, DynamoDB, S3 bucket, SAM CLI
+- **Azure**: SignalR, Storage, Vault, SQL Server, VPN, App Service, Function, API Management
 
 <br />
 
@@ -156,7 +167,6 @@
 </div>
 </details>
 <!-- end statics fun section -->
-
 
 <details> 
  <summary>🤖 <b>My programming stats</b>: </summary>
